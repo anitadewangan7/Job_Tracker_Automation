@@ -1,0 +1,4 @@
+company,title,location,salary,score,url,source
+Google,Principal SDET,Bangalore,55 LPA,76.0,https://linkedin.com/job1,LinkedIn
+Atlassian,Staff SDET,Remote,60 LPA,76.0,https://linkedin.com/job2,LinkedIn
+BrowserStack,Lead QA Automation,Remote,40 LPA,61.0,https://browserstack.com/job,CareerSite
